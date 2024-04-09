@@ -1,0 +1,26 @@
+{
+  "name": "connect_us_api",
+  "version": "1.0.0",
+  "description": "One api to connect apps for server to client communication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakashMandal-IV/connect_us_api.git"
+  },
+  "keywords": [
+    "connect",
+    "one-connect",
+    "message",
+    "server-client",
+    "communication"
+  ],
+  "author": "prakashmandal.iv@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrakashMandal-IV/connect_us_api/issues"
+  },
+  "homepage": "https://github.com/PrakashMandal-IV/connect_us_api#readme"
+}
